@@ -55,9 +55,9 @@ The new_gold subset consists of document from two genres:
 * fiction from the Project Gutenberg collection (7 documents, 20646
                    tokens, 5925 markables)
 
-Overall, 580 of the total 805 documents are `complete' annotated by the player. A document is considered `complete' if all its markables have at least
+Overall, 580 of the total 805 documents are 'complete' annotated by the player. A document is considered 'complete' if all its markables have at least
 8 annotations and each interpretation has been validated by at least
-4 players. On average, 20.6 annotations per markable are present. For those documents that are not `completely' annotated, a coreference system (Yu et al., 2020) is used as an additional artificial player.
+4 players. On average, 20.6 annotations per markable are present. For those documents that are not 'completely' annotated, a coreference system ([Yu et al., 2020](https://aclanthology.org/2020.lrec-1.2)) is used as an additional artificial player.
 
 # Markup formats
 
