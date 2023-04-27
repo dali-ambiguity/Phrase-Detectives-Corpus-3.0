@@ -11,7 +11,7 @@ the  Phrase Detectives game-with-a-purpose:
 
 # Download
 
-The corpus is avaliable at this [link]().
+The corpus is avaliable at this [link](https://drive.google.com/file/d/1R72bY6gHyC3amy9VxLjKrougJUxhY_HK/view?usp=sharing).
 
 # The Documents
 
